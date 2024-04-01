@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-firbaseDatabase/static/css/main.964fdded.css",
+    "main.js": "/react-firbaseDatabase/static/js/main.13ceb23a.js",
+    "static/js/453.a6a97343.chunk.js": "/react-firbaseDatabase/static/js/453.a6a97343.chunk.js",
+    "index.html": "/react-firbaseDatabase/index.html",
+    "main.964fdded.css.map": "/react-firbaseDatabase/static/css/main.964fdded.css.map",
+    "main.13ceb23a.js.map": "/react-firbaseDatabase/static/js/main.13ceb23a.js.map",
+    "453.a6a97343.chunk.js.map": "/react-firbaseDatabase/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.13ceb23a.js"
+  ]
+}
